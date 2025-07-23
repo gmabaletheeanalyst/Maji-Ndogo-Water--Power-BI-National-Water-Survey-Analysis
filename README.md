@@ -2,6 +2,7 @@
 This repository contains an analysis of Maji Ndogo
 
 **Project Background**
+
 This comprehensive analysis examines the Maji Ndogo Water national survey results, focusing on water infrastructure performance, service delivery gaps, and improvement opportunities across multiple provinces. The dashboard presents critical insights into water access patterns, infrastructure quality, and regional disparities in service provision.
 
 
